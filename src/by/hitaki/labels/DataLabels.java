@@ -50,4 +50,28 @@ public class DataLabels {
                     GENRES          + ", " +
                     RELATED_VIDEO_ID;
 
+    public static String FIELD_LIST_WITHOUT_ID =
+                    CREATE_DATE     + ", " +
+                    PATH            + ", " +
+                    PICTURE_PATH    + ", " +
+                    NAME            + ", " +
+                    NAME_LIST       + ", " +
+                    TYPE            + ", " +
+                    COUNTRY         + ", " +
+                    STUDIO          + ", " +
+                    DESCRIPTION     + ", " +
+                    RATING_WA       + ", " +
+                    RATING_MY       + ", " +
+                    RELEASE_DATE    + ", " +
+                    END_DATE        + ", " +
+                    LAST_VIEW_DATE  + ", " +
+                    STATUS          + ", " +
+                    URL_WA          + ", " +
+                    SERIES_COUNT    + ", " +
+                    SERIES_VIEWED   + ", " +
+                    ANI_SEASON      + ", " +
+                    FILM_DIRECTOR   + ", " +
+                    GENRES          + ", " +
+                    RELATED_VIDEO_ID;
+
 }
